@@ -15,6 +15,6 @@ Important to know:
 
 Screenshot:
 
-![Screenshot](http://a.pomf.se/jgooon.PNG)
+REDACTED IMAGE BECAUSE GITHUB HATES WORDS
 
 This software is released under the MIT license. See [LICENSE.md] (https://github.com/WebMBro/WebMConverter/blob/master/LICENSE.md).
